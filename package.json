@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-kakadiadarpan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint rules according to kakadiadarpan's personal preference",
   "main": "index.js",
   "repository": "https://github.com/kakadiadarpan/eslint-config-kakadiadarpan.git",
